@@ -11,7 +11,7 @@ html{
     scroll-behavior: smooth;
 }
 
-/* custom scroll bar */
+/* custom scrolling bar */
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -26,7 +26,7 @@ html{
     background: #555;
 }
 
-/* all similar content styling codes */
+/* codes styling */
 section{
     padding: 100px 0;
 }
@@ -77,7 +77,7 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
+/* styling navbar  */
 .navbar{
     position: fixed;
     width: 100%;
@@ -126,7 +126,7 @@ section .title::after{
     color: #fff;
 }
 
-/* menu btn styling */
+/* styling menu btn  */
 .menu-btn{
     color: #fff;
     font-size: 23px;
@@ -162,7 +162,7 @@ section .title::after{
 }
 
 
-/* home section styling */
+/* home section  */
 .home{
     display: flex;
     background: url("images/banner.jpg") no-repeat center;
@@ -213,7 +213,7 @@ section .title::after{
     background: none;
 }
 
-/* about section styling */
+/* about section  */
 .about .title::after{
     content: "who am I";
 }
@@ -257,7 +257,7 @@ section .title::after{
     background: none;
 }
 
-/* services section styling */
+/* services section  */
 .services, .teams{
     color:#fff;
     background: #111;
@@ -303,7 +303,7 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
-/* skills section styling */
+/* skills section  */
 
 .skills .title::after{
     content: "what I know";
@@ -387,7 +387,7 @@ section .title::after{
     width: 15%;
 }
 
-/* teams section styling */
+/* teams section  */
 .teams .title::after{
     content: "certificates";
 }
@@ -450,7 +450,7 @@ section .title::after{
     background: #2A1B3D!important;
 }
 
-/* contact section styling */
+/* contact section  */
 .contact .title::after{
     content: "contact";
 }
@@ -545,7 +545,7 @@ section .title::after{
   color: #2A1B3D;
   background: none;
 }
-/* footer section styling */
+/* footer section */
 footer{
     background: #111;
     padding: 15px 23px;
@@ -561,7 +561,7 @@ footer span a:hover{
 }
 
 
-/* responsive media query start */
+/* responsive media query */
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
