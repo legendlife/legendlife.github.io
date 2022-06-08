@@ -252,17 +252,17 @@
                                 <input type="text" placeholder="Name" required>
                             </div>
                             <div class="field email">
-                                <input type="email" placeholder="Email" required>
+                                <input type="email" name="email" placeholder="Email" required>
                             </div>
-                        </div>
-                        <div class="field">
-                            <input type="text" placeholder="Subject" required>
                         </div>
                         <div class="field textarea">
                             <textarea cols="30" rows="10" placeholder="Message...." required></textarea>
                         </div>
+                        <input type="hidden" name="_subject" value="New enquiry">
                             <input type="hidden" name="_next" value="https://legendlife.github.io/index.html">
                             <input type="hidden" name="_captcha" value="false">
+                            <input type="hidden" name="_autoresponse" value="Thanks for contacting!">
+                            <input type="hidden" name="_template" value="table">
                         <div class="button-area">
                             <button type="submit">Send message</button>
                         </div>
