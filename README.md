@@ -1,4 +1,4 @@
-### Click here : [legendlife.github.io](https://legendlife.github.io/)
+### Click here  --> [legendlife.github.io](https://legendlife.github.io/)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOTO&color=%234EF74C&lines=Based+on%3A)](https://legendlife.github.io)
 
