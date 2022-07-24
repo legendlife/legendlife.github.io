@@ -374,6 +374,9 @@ section .title::after{
 .skills-content .right .js::before{
     width: 45%;
 }
+.skills-content .right .rust::before{
+    width: 35%;
+}
 .skills-content .right .php::before{
     width: 25%;
 }
@@ -387,9 +390,9 @@ section .title::after{
     width: 15%;
 }
 
-/* teams section  */
+/* projects section  */
 .teams .title::after{
-    content: "certificates";
+    content: "projects";
 }
 .teams .carousel .card{
     background: #222;
