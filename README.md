@@ -11,6 +11,9 @@
 ### Copyright (c) Senpai Legend 
 - Licensed under: [MIT](LICENSE)
 
+- [Icons were taken from icons8](https://icons8.com)
+
+
 ```
 MIT License
 
