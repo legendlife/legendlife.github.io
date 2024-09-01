@@ -131,7 +131,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: #476EB3;
+    color: #f74c4c;
 }
 .navbar.sticky .menu li a:hover{
     color: #F1E697;
@@ -204,7 +204,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: #64D1B2;
+    color: #f74c4c;
     font-weight: 500;
 }
 .home .home-content a{
@@ -247,7 +247,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #F1E697;
+    color: #f74c4c;
 }
 .about .about-content .right p{
     text-align: justify;
