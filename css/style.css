@@ -377,7 +377,7 @@ section .title::after{
 /* .skills-content .right .html::before{
     width: 95%;
 } */
-.skills-content .right .css::before{
+.skills-content .right .lua::before{
     width: 75%;
 }
 .skills-content .right .python::before{
