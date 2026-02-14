@@ -374,11 +374,11 @@ section .title::after{
     top: 0;
     background: #F1E697;
 }
-.skills-content .right .html::before{
+/* .skills-content .right .html::before{
     width: 95%;
-}
+} */
 .skills-content .right .css::before{
-    width: 85%;
+    width: 75%;
 }
 .skills-content .right .python::before{
     width: 55%;
