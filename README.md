@@ -8,7 +8,7 @@
 
 - Java Script
 
-### Copyright (c) Senpai Legend 
+### Copyright (c) MD Raiyan 
 - Licensed under: [MIT](LICENSE)
 
 - Icons were taken from [icons8](https://icons8.com)
@@ -16,7 +16,7 @@
 
 ```
 MIT License
-Copyright (c) 2025 MD Raiyan
+Copyright (c) 2026 MD Raiyan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
